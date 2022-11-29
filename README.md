@@ -13,7 +13,7 @@
 <p align="center"> <img src="https://repository-images.githubusercontent.com/512123434/7930003e-49cb-4132-8438-dbdbf98f8015" alt="Logo da AluraBooks"> </p>
 
 ## Descrição do Projeto
-* Projeto feito durante o curso de "HTML e CSS: responsividade com mobile-first" da Alura. Nele, o projeto de desenvolvimento foi inciado pela versão mobile e, posteriormente, se desenvolveu resposividades para as versões tablet e notebook/desktop. 
+* Projeto feito durante o curso de "HTML e CSS: responsividade com mobile-first" da Alura. Nele, o projeto de desenvolvimento foi iniciado pela versão mobile e, posteriormente, se desenvolveu resposividades para as versões tablet e notebook/desktop. 
 
 ## Tecnologias utilizadas
 * HTML
